@@ -8,7 +8,7 @@ Yet another Java developer with a crush on Groovy.
 Yes, I **really** like Java and Groovy.
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambapps&exclude_repo=android-jvml-doc,doc-scraper,android-developer-profile&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambapps&exclude_repo=android-jvml-doc,doc-scraper,android-developer-profile&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 You can also visit my website exposing my main (and published) projects at [https://tambapps-portfolio.herokuapp.com](https://tambapps-portfolio.herokuapp.com)
