@@ -1,17 +1,11 @@
-### Welcome to my profile
-
-Yet another Java developer.
-
-Go checkout my programming language [Marcel](https://tambapps.github.io/marcel/)
-
-[![Tambapps's GitHub stats](https://github-readme-stats.vercel.app/api?username=tambapps&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+### Yet another Java developer.
 
 Yes, I **really** like JVM languages.
 
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambapps&exclude_repo=android-jvml-doc,doc-scraper,android-developer-profile&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+Check my programming language [Marcel](https://tambapps.github.io/marcel/)
 
 You can also visit my website exposing my main (and published) projects at [https://tambapps-portfolio.herokuapp.com](https://tambapps-portfolio.herokuapp.com)
 <!--
