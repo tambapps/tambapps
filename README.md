@@ -7,7 +7,6 @@ Yes, I **really** like JVM languages.
 
 Check my programming language [Marcel](https://tambapps.github.io/marcel/)
 
-You can also visit my website exposing my main (and published) projects at [https://tambapps-portfolio.herokuapp.com](https://tambapps-portfolio.herokuapp.com)
 <!--
 **tambapps/tambapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
